@@ -1,0 +1,33 @@
+{
+  "routing": {
+    "index": "/index.html",
+    "routes": {
+      "/": {
+        "match": "exact"
+      },
+      "/home": {
+        "match": "prefix"
+      }
+    }
+  },
+  "static": {
+    "urls": {
+      "https://mauricioarce.github.io/weather-pwa/polyfills.42338b7c98455a52f36c.bundle.js": "48c5b8fd7bb6e5a51c22390549d4cde2834fdac8",
+      "https://mauricioarce.github.io/weather-pwa/main.d906b606241b9d28cf29.bundle.js": "3dbd1a61f9e82e111a86b454f3844a541cb85d3b",
+      "https://mauricioarce.github.io/weather-pwa/sw-register.6819cd2c5fa25470ecf2.bundle.js": "50d549edfbd188ed199d8d0b079afa593202e3ea",
+      "https://mauricioarce.github.io/weather-pwa/inline.e8662b81cd26d7641a1d.bundle.js": "4496e96c8c03b0b6ed0d2bc4ef639c04aa709d01",
+      "https://mauricioarce.github.io/weather-pwa/styles.7a79617079c91a92e62a.bundle.css": "f77fc5e3fa64a1afa904bbfcc048e4a704a8ca75",
+      "https://mauricioarce.github.io/weather-pwa/assets/icons/android-chrome-192x192.png": "475bfa75f74b88cbc918041f43e8be7bd38d5888",
+      "https://mauricioarce.github.io/weather-pwa/assets/icons/android-chrome-512x512.png": "4fc261af4ce1a13b35e54fff7a07e1de85869845",
+      "https://mauricioarce.github.io/weather-pwa/assets/icons/apple-touch-icon.png": "75642796e3283c3371062e7b5ef28ae77cff96a8",
+      "https://mauricioarce.github.io/weather-pwa/assets/icons/favicon-16x16.png": "26021ca0e0611645095b2f41ee478400827987bf",
+      "https://mauricioarce.github.io/weather-pwa/assets/icons/mstile-150x150.png": "9af9d50dda193e0cce1fda4ff9372df0ff83f7e5",
+      "https://mauricioarce.github.io/weather-pwa/assets/icons/favicon-32x32.png": "1bcb457088fd8581951fa83b912bea5dafd7870d",
+      "https://mauricioarce.github.io/weather-pwa/assets/icons/favicon.ico": "4c9b04717807f91aadf33aeb871e2ebd824fc6da",
+      "https://mauricioarce.github.io/weather-pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+      "https://mauricioarce.github.io/weather-pwa/manifest.json": "b0a30f05532ff10dd9d0033599281ac0deda3d65",
+      "https://mauricioarce.github.io/weather-pwa/index.html": "c6c1b28e7307773dcd6de02ba9fbb7075d01d3ad"
+    },
+    "_generatedFromWebpack": true
+  }
+}
